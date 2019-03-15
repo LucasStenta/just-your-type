@@ -1,15 +1,15 @@
 html {
   background-color: black;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .big {
-  font-family: 'Alfa Slab One', cursive;
-
+  font-family: "Alfa Slab One", cursive;
 }
- .home {
-  font-family: 'Abril Fatface', cursive;
- }
+
+.home {
+  font-family: "Abril Fatface", cursive;
+}
 
 div {
   color: white;
